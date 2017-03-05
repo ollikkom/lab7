@@ -12,7 +12,6 @@ bool Polindrom(std::string& str)
     return true;
 }
 
-
 int main() {
     std::string str1;
     std::cout<<" Hello! Your string: "<<std::endl;
